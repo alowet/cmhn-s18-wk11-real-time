@@ -1,0 +1,4 @@
+#Ignore these files
+fmrisim/data/*
+
+# Don't ignore these
